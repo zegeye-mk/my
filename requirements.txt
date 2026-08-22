@@ -1,4 +1,5 @@
 python-telegram-bot==20.7
-pytz
-flask
-ethiopian-date
+Flask==3.0.0
+gunicorn==21.2.0
+pytz==2023.3.post1
+ethiopian-date==0.2.0
